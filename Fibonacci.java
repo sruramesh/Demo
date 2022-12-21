@@ -17,7 +17,7 @@ public static void main(String[] args) {
 //		first=second;
 //		second=next;
 //	}
-	
+	//palindrome program
 	//Initialize array  
     int [] arr = new int [] {25, 11, 7, 75, 77};  
     //Initialize max with first element of array.  
